@@ -1,3 +1,4 @@
 ﻿Hello from master
 Hello from feature branch
 This is a minor change made !!!
+This change is for git pull 
